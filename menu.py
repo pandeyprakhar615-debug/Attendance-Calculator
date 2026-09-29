@@ -1,0 +1,10 @@
+def menu():
+    print()
+    print("===== Attendance Calculator =====")
+    print("1. Add subject")
+    print("2. Update attendance")
+    print("3. View all subjects")
+    print("4. What if scenario")
+    print("5. Change required percentage")
+    print("6. Delete subject")
+    print("7. Exit")
